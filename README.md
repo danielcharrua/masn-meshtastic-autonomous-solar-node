@@ -9,7 +9,8 @@ MASN is a solar-powered Meshtastic node designed for anyone to build easily. Thi
 ## Features
 
 - [3D printable enclosure adaptor](3D/masn-box-adaptor.stl)
-- [PCB design files for easy manufacturing](pcb/core-1262/masn-core-1262.zip)
+- [PCB design files for easy manufacturing](pcb/core-1262/Gerber_masn-core-1262.zip)
+- [PCB schematic](pcb/core-1262/Schematic_masn-core-1262.pdf)
 - Open hardware and open documentation
 - Easy to replicate and customize
 
