@@ -9,7 +9,7 @@ MASN is a solar-powered Meshtastic node designed for anyone to build easily. Thi
 ## Features
 
 - [3D printable enclosure adaptor](3D/masn-box-adaptor.stl)
-- [PCB design files for easy manufacturing](pcb/masn.zip)
+- [PCB design files for easy manufacturing](pcb/core-1262/masn-core-1262.zip)
 - Open hardware and open documentation
 - Easy to replicate and customize
 
@@ -30,7 +30,16 @@ If you want to contribute to this project, please fork the repository, create a 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0.
+This project is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S v2).
+
+This license allows you to:
+
+- **Use** the hardware design for any purpose
+- **Study** how the hardware works
+- **Modify** the design to suit your needs
+- **Share** copies of the original or modified design
+
+The "Strongly Reciprocal" condition means that if you distribute products based on this design, you must also share any modifications under the same license, ensuring the hardware remains open.
 
 ## Disclaimer
 
