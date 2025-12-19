@@ -30,6 +30,10 @@ For detailed instructions, photos, and the full story behind the project, read t
 - [🇬🇧 MASN: A Simple and Open-Source Solar Node for Meshtastic](https://danielpcostas.dev/masn-a-simple-and-open-source-solar-node-for-meshtastic/)
 - [🇪🇸 MASN: un nodo solar Meshtastic que cualquiera puede montar](https://danielpcostas.dev/es/masn-nodo-solar-meshtastic-que-cualquiera-puede-montar/)
 
+## Acknowledgments
+
+Thanks to [PCBWay](https://www.pcbway.com/) for collaborating with this project by providing free PCBs for the prototypes.
+
 ## Contributing
 
 If you want to contribute to this project, please fork the repository, create a new branch, and submit a pull request. Contributions are welcome!
