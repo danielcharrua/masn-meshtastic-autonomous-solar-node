@@ -61,7 +61,8 @@ For detailed instructions, photos, and the full story behind the project, read t
 
 ### MASN V2.0
 
-- [🇪🇸 MASN V2.0: el nodo solar para Meshtastic ahora es más resistente](https://danielpcostas.dev/es/masn-v2-nodo-solar-meshtastic-bateria-brownout/) (English version coming soon)
+- [🇬🇧 MASN V2.0: The Meshtastic solar node is now more resilient](https://danielpcostas.dev/masn-v2-meshtastic-solar-node-battery-brownout/)
+- [🇪🇸 MASN V2.0: el nodo solar para Meshtastic ahora es más resistente](https://danielpcostas.dev/es/masn-v2-nodo-solar-meshtastic-bateria-brownout/)
 
 ## Acknowledgments
 
