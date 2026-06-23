@@ -31,8 +31,8 @@ MASN comes in two generations, each available for two LoRa modules:
 
 **MASN V2.0** — adds battery-level reading in Meshtastic and a voltage supervisor for clean recovery after a full discharge. Includes some SMD components (moderate difficulty), best suited for outdoor or remote installations.
 
-- **Core-1262**: [PCB files](pcb/v2/core-1262/Gerber_masn-v2-core-1262.zip) | [Schematic](pcb/v2/core-1262/Schematic_masn-v2-core-1262.pdf) | [BOM](pcb/v2/core-1262/BOM_masn-v2-core-1262.csv) | [Pick and Place](pcb/v2/core-1262/PickAndPlace_masn-v2-core-1262.csv) (Waveshare Core-1262 module)
-- **HT-RA62**: [PCB files](pcb/v2/ht-ra62/Gerber_masn-v2-htra62.zip) | [Schematic](pcb/v2/ht-ra62/Schematic_masn-v2-htra62.pdf) | [BOM](pcb/v2/ht-ra62/BOM_masn-v2-htra62.csv) | [Pick and Place](pcb/v2/ht-ra62/PickAndPlace_masn-v2-htra62.csv) (HT-RA62 module - same as Faketec)
+- **Core-1262**: [PCB files](pcb/v2/core-1262/Gerber_masn-v2-core-1262.zip) | [Schematic](pcb/v2/core-1262/Schematic_masn-v2-core-1262.pdf) | [BOM](pcb/v2/core-1262/BOM_masn-v2-core-1262.csv) | [Pick and Place](pcb/v2/core-1262/PickAndPlace_masn-v2-core-1262.csv) | [EasyEDA sources](pcb/v2/core-1262/source/) (Waveshare Core-1262 module)
+- **HT-RA62**: [PCB files](pcb/v2/ht-ra62/Gerber_masn-v2-htra62.zip) | [Schematic](pcb/v2/ht-ra62/Schematic_masn-v2-htra62.pdf) | [BOM](pcb/v2/ht-ra62/BOM_masn-v2-htra62.csv) | [Pick and Place](pcb/v2/ht-ra62/PickAndPlace_masn-v2-htra62.csv) | [EasyEDA sources](pcb/v2/ht-ra62/source/) (HT-RA62 module - same as Faketec)
 
 > **Note:** If you order the SMD components pre-assembled, make sure they are soldered on the **bottom side** of the board.
 
